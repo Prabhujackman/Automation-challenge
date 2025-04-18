@@ -12,7 +12,7 @@ describe("IKEA shopping website", function(){
 
 it('Search product and add to cart', function(){
 
-  const obj = new product();
+  const obj = new productPOM();
   obj.searchproduct();
   obj.applyfilter();
   obj.selectproduct();
