@@ -1,4 +1,4 @@
-import product  from "../support/product";
+import productPOM  from "../support/productPOM";
 
 
 describe("IKEA shopping website", function(){
