@@ -162,4 +162,4 @@ should('contain.text','36,980')
     }
     }
 
-export default product;
+export default productPOM;
