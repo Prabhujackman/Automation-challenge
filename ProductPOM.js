@@ -1,4 +1,4 @@
-class product {
+class productPOM {
 
 searchproduct(){
 cy.get(6000)
